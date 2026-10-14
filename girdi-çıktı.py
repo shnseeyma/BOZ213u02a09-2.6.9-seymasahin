@@ -1,0 +1,7 @@
+a = float(input("a değeri için bir sayı girin: "))
+b = float(input("b değeri için bir sayı girin: "))
+print("Toplama sonucu:", a + b)
+print("Çıkarma sonucu:", a - b)
+print("Çarpma sonucu:", a * b)
+print("Bölme sonucu:", a / b)
+print("\nThat's all, folks!")
